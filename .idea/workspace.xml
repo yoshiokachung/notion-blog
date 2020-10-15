@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,9 +33,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -80,17 +89,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602744347270</updated>
-      <workItem from="1602744358946" duration="1141000" />
+      <workItem from="1602744358946" duration="3625000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="584" y="437" width="639" height="486" key="find.popup" timestamp="1602748897264">
+    <state x="584" y="437" width="639" height="486" key="find.popup" timestamp="1602749518195">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="584" y="437" width="639" height="486" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1602748897264" />
+    <state x="584" y="437" width="639" height="486" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1602749518195" />
   </component>
 </project>
