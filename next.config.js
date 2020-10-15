@@ -40,10 +40,8 @@ if (!BLOG_INDEX_ID) {
       `Make sure to provide one before starting Next.js`
   )
 }
-
 module.exports = {
   target: 'experimental-serverless-trace',
-
   webpack(cfg, { dev, isServer }) {
     // only compile build-rss in production server build
     if (dev || !isServer) return cfg
@@ -60,8 +58,3 @@ module.exports = {
     return cfg
   },
 }
-
-const withSass = require('@zeit/next-sass')
-module.exports = withSass({
-  cssModules: true,
-})
